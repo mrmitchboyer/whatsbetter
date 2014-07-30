@@ -200,6 +200,7 @@ input[type="submit"]:focus {
   }
 
   #footer {
+    position: static;
     height: 65px;
   }
 
