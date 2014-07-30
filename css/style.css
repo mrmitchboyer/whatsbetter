@@ -200,8 +200,9 @@ input[type="submit"]:focus {
   }
 
   #footer {
-    position: relative;
+    position: fixed;
     height: 65px;
+    opacity: 0.2;
   }
 
 }
